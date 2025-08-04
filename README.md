@@ -7,6 +7,7 @@ Contains source code for paper submission "Calibrated Multi-Source Fully Test-Ti
 
 python tools/dist_train.sh path/to/config path/to/weights 4
 
+
 # Testing
 
 python tools/dist_test.sh path/to/config path/to/weights 4

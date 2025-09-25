@@ -1,6 +1,6 @@
-# CTOD
+# InsCal
 
-Contains source code for paper submission "Calibrated Multi-Source Fully Test-Time Prompt Tuning for Object Detection".
+Contains source code for paper submission "INSCAL: CALIBRATED MULTI-SOURCE FULLY TEST-TIME PROMPT TUNING FOR OBJECT DETECTION".
 
 
 # Training
